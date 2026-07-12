@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Alwin Mathew | IT Engineer & ML Developer",
+  title: "Alwin Mathew | Portfolio",
   description: "Portfolio of Alwin Mathew — Machine Learning, Computer Vision, QA Automation, and Cloud projects.",
 };
 
